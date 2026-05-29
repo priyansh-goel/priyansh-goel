@@ -5,7 +5,7 @@
 
 These days I work on **multimodal semantic search**, basically retrieval over a lot of video, image, and text. Most of my time goes into the unglamorous parts: vector indexing, hybrid search, re-ranking, and keeping latency sane at scale.
 
-I mostly write Python and Rust, build on FastAPI and Next.js, and live in vector databases.
+I mostly write Python and Go and live in vector databases.
 
 <br>
 
